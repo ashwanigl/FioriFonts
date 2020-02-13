@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'SAP-icons';
+	src: url('https://sapui5.hana.ondemand.com/resources/sap/ui/core/themes/base/fonts/SAP-icons.woff2') format('woff2'),
+		url(‘fonts/SAP-icons.woff2’) format(‘woff2’),url(‘https://openui5nightly.hana.ondemand.com/resources/sap/ui/core/themes/sap_belize/fonts/SAP-icons.woff‘) format(‘woff’),
+		url(‘https://openui5nightly.hana.ondemand.com/resources/sap/ui/core/themes/sap_belize/fonts/SAP-icons.woff2‘) format(‘woff2’),
+		local(‘SAP-icons’);
+}
+
